@@ -17,3 +17,6 @@ pac(picture attribute cloner)图片属性克隆器
 
 但我觉得，除了醒图之外其他的编辑软件都可以保留属性吧，所以技术原因克隆不全。
 
+exifmov(exif information remove)去除exif信息
+
+去掉exif信息可以防止个人信息泄露
