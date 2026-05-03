@@ -4,7 +4,7 @@
 
 fae(file attribute editor)文件属性编辑器
 
-找不到文件了？只要输入文件路径，或者这样:
+文件被某个傻屌隐藏了？只要输入文件路径，或者这样:
 
 ![动图](https://s2.loli.net/2025/03/21/YAxf2qaWGtLVswC.gif)
 
